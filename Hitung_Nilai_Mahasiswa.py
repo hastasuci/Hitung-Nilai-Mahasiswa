@@ -1,3 +1,6 @@
+import os 
+os.system("cls")
+
 print("Selamat datang di Aplikasi Perhitungan Nilai Mahasiswa")
 print("======================================================")
 nilai_tugas = input("Silakan Masukkan Nilai Tugas Anda: ")
